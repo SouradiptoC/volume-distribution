@@ -40,4 +40,4 @@ Outputs
 
 An Insight to the Function Used
 ================================
-:func:`finalResult.makeOutput`
+:func:`main.makeOutput`
