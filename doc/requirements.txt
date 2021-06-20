@@ -1,0 +1,5 @@
+docutils==0.16
+sphinx==4.0.2
+sphinx-autoapi==1.8.1
+sphinx-rtd-theme==0.5.2
+readthedocs-sphinx-search==0.1.0

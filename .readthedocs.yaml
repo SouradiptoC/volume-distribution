@@ -1,0 +1,10 @@
+version: 2
+
+sphinx:
+  configuration: doc/conf.py
+
+# Python version and required depemdemcies
+python:
+  version: 3.8
+  install:
+    - requirements: doc/requirements.txt
