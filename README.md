@@ -22,10 +22,10 @@ A full documentation can be found [here](https://volume-distribution.readthedocs
 
 Concentration Vs Time curve
 
-
+![Concentration Vs Time curve](https://github.com/SouradiptoC/volume-distribution/blob/master/result/ConcVsTime.svg)
 
 logConcentration Vs Time curve
 
-
+![logConc Vs Time curve](https://github.com/SouradiptoC/volume-distribution/blob/master/result/logConcVsTime.svg)
 
   
