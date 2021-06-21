@@ -72,7 +72,7 @@ def makeOutput(drugData, knwnMediData, outFolder):
     with open(resFileLoc, 'w') as outFile:
         print(f"Computation Result Log:\n----------------------\n", file=outFile)
         print(
-            f"Elimination Constant for provided drug: {elim_const}", file=outFile)
+            f"Elimination Constant for provided drug: {(-1) * elim_const}", file=outFile)
         print(
             f"Half life for elimination for provided drug: {log(2)/(-1 * elim_const)}", file=outFile)
         print(
