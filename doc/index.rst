@@ -7,7 +7,7 @@
 Distribution of Drug Volume
 ###########################
 
-Volume Distribution is a pharmacokinetical parameter for drugs. With the help of the parameter, one can have a clear insight to various properties of drug like lipophilicity, pH etc. The program will generate the value of steady state volume distribution, areal volume distribution, eliminnation constant and half-life of elimination. Additionally, one datashhet is made with quite a few known drugs and their volume distribution values.
+Volume Distribution is a pharmacokinetic parameter for drugs. With the help of the parameter, one can have a clear insight to various properties of drug like lipophilicity, pH etc. The program will generate the value of steady state volume distribution, areal volume distribution, eliminnation constant and half-life of elimination. Additionally, one datashhet is made with quite a few known drugs and their volume distribution values.
 
 
 .. toctree::
